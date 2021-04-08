@@ -1,16 +1,19 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif"/>
+</p>
 
-<!--
-**PascalFrenz/PascalFrenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Pascal**, a software developer from Hamburg.
+I am currently working as a full stack dev and really enjoy building SPAs.
 
-Here are some ideas to get you started:
+Besides work, I mostly...
+ - 🎮 play video games
+ - 🎧 listen to music
+ - 🏄 go windsurfing
+ - 🎲 some combination of the above
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br><br>
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=PascalFrenz&show_icons=true&theme=dracula"/>
+
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PascalFrenz&theme=dracula&layout=compact&langs_count=5"/>
+</p>
