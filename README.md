@@ -3,7 +3,7 @@
 </p>
 
 I am **Pascal**, a software developer from 📍 Hamburg, Germany.<br>
-I am currently working as a full stack developer and really enjoy building applications on AWS.
+Currently, I am working as a full stack developer, building applications on AWS.
 
 Besides work, I mostly...
 
@@ -12,7 +12,7 @@ Besides work, I mostly...
 🏄 go windsurfing<br/>
 🎲 some combination of the above<br/>
 
-### Languages
+### Languages, Frameworks and Tools
 
 <div>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -23,8 +23,6 @@ Besides work, I mostly...
     <img src="https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
 </div>
 
-### Frameworks
-
 <div>
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
     <img src="https://img.shields.io/badge/node.js%20-43853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -33,16 +31,12 @@ Besides work, I mostly...
     <img src="https://img.shields.io/badge/fastapi%20-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white"/>
 </div>
 
-### IDEs
-
 <div>
     <img src="https://img.shields.io/badge/intellij%20IDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"/>
     <img src="https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white"/>
     <img src="https://img.shields.io/badge/datagrip-000000.svg?&style=for-the-badge&logo=datagrip&logoColor=white"/>
     <img src="https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </div>
-
-### Tools
 
 <div>
     <img src="https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -56,7 +50,6 @@ Besides work, I mostly...
     <img src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
     <img src="https://img.shields.io/badge/figma%20-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
-
 
 <br><br>
 <p align="center">
