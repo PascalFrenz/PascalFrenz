@@ -3,13 +3,13 @@
 </p>
 
 I am **Pascal**, a software developer from 📍 Hamburg, Germany.<br>
-Currently, I am working as a full stack developer, building applications on AWS.
+Currently, I am working as a backend developer, building applications and infrastructure on AWS.
 
 Besides work, I mostly...
 
-🎮 play video games<br/>
 🎧 listen to music<br/>
 🏄 go windsurfing<br/>
+🎮 play video games<br/>
 🎲 some combination of the above<br/>
 
 ### Languages, Frameworks and Tools
